@@ -1,0 +1,18 @@
+# humans.txt
+
+/* TEAM */
+Developer,Owner: Katochan(no1fushi)
+Site           : http://no1fushi.net
+GitHub         : https://github.com/no1fushi/
+Email          : no1fushi@gmail.com
+Twitter        : @anon_no1fushi
+
+/* THANKS */
+site: http://piyopiyocs.blog115.fc2.com/
+site: http://black-flag.net/
+
+/* SITE */
+Language  : Japanese
+Standards : HTML5,CSS3,JavaScript
+Components: jQuery,particleground.js
+Software  : SublimeText,GoogleChrome

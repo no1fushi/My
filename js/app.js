@@ -16,7 +16,7 @@ $('#particles').particleground({
 	parallaxMultiplier: 4,
 });
 
-//typing
+//typing http://black-flag.net/jquery/20140708-5251.htmlより
 $(function(){
 	var setElm = $('.typing'),
 	delaySpeed = 200,
