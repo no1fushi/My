@@ -1,0 +1,23 @@
+# humans.txt
+
+/* TEAM */
+Owner    : KNiF Fish
+Twitter  : @knifefishclan
+Youtube  : https://www.youtube.com/channel/UCuSUY9LQ8yOdBPSTjiEQeqQ
+
+Developer: Katochan(no1fushi)
+Site     : http://no1fushi.net
+GitHub   : https://github.com/no1fushi/
+Email    : no1fushi@gmail.com
+Twitter  : @anon_no1fushi
+
+/* THANKS */
+site: http://mmmmofu.hatenablog.com/
+site: http://morobrand.net/mororeco/
+site: https://vodkabears.github.io/remodal/
+
+/* SITE */
+Language  : Japanese
+Standards : HTML5,CSS3,JavaScript
+Components: jQuery,googlefonts
+Software  : SublimeText,GoogleChrome
