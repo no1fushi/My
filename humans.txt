@@ -5,7 +5,7 @@ Developer,Owner: Katochan(no1fushi)
 Site           : http://no1fushi.net
 GitHub         : https://github.com/no1fushi/
 Email          : no1fushi@gmail.com
-Twitter        : @anon_no1fushi
+Twitter        : @no3fushi
 
 /* THANKS */
 site: http://piyopiyocs.blog115.fc2.com/
